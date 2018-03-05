@@ -8,8 +8,8 @@ html {
 }
 
 .prof-box {
-  width: 400px;
-  height:400px;
+  width: 900px;
+  height:700px;
   background:rgba(0,0,0,0.4);
   padding: 40px;
   color: white;
@@ -30,7 +30,27 @@ html {
   font-size: 40px;
 }
 
+/*
 p{
   font-weight: 200;
   letter-spacing:1px ;
+}
+*/
+
+p{
+  font-weight: 100;
+  font-size: 16px;
+  letter-spacing:1px ;
+}
+
+h5{
+  font-weight: 200;
+  font-size: 20px;
+  letter-spacing:1px ;
+}
+
+.line-break {
+  width: 400px;
+  margin:0  auto;
+  border-top: 1px solid white;
 }
